@@ -10,3 +10,4 @@
         - htop
         - tmux
         - qemu-guest-agent
+        - python3-psutil
